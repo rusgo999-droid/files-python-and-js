@@ -1,0 +1,1 @@
+console.log("hello friend, go to play in game")
